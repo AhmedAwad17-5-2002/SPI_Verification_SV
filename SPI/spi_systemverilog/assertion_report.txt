@@ -1,0 +1,123 @@
+Coverage Report by instance with details
+
+=================================================================================
+=== Instance: /SPI_tb/SPI/A
+=== Design Unit: work.assertion
+=================================================================================
+
+Assertion Coverage:
+    Assertions                      19        19         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SPI_tb/SPI/A/#ublk#164219134#62/immed__64
+                     Assertion_spi.sv(64)               0          1
+/SPI_tb/SPI/A/sv_prop1
+                     Assertion_spi.sv(67)               0          1
+/SPI_tb/SPI/A/sv_prop2
+                     Assertion_spi.sv(68)               0          1
+/SPI_tb/SPI/A/sv_prop3
+                     Assertion_spi.sv(69)               0          1
+/SPI_tb/SPI/A/sv_prop4
+                     Assertion_spi.sv(70)               0          1
+/SPI_tb/SPI/A/sv_prop5
+                     Assertion_spi.sv(71)               0          1
+/SPI_tb/SPI/A/sv_prop6
+                     Assertion_spi.sv(72)               0          1
+/SPI_tb/SPI/A/sv_prop7
+                     Assertion_spi.sv(73)               0          1
+/SPI_tb/SPI/A/sv_prop8
+                     Assertion_spi.sv(74)               0          1
+/SPI_tb/SPI/A/sv_prop9
+                     Assertion_spi.sv(75)               0          1
+/SPI_tb/SPI/A/cvr_prop1
+                     Assertion_spi.sv(77)               0          1
+/SPI_tb/SPI/A/cvr_prop2
+                     Assertion_spi.sv(78)               0          1
+/SPI_tb/SPI/A/cvr_prop3
+                     Assertion_spi.sv(79)               0          1
+/SPI_tb/SPI/A/cvr_prop4
+                     Assertion_spi.sv(80)               0          1
+/SPI_tb/SPI/A/cvr_prop5
+                     Assertion_spi.sv(81)               0          1
+/SPI_tb/SPI/A/cvr_prop6
+                     Assertion_spi.sv(82)               0          1
+/SPI_tb/SPI/A/cvr_prop7
+                     Assertion_spi.sv(83)               0          1
+/SPI_tb/SPI/A/cvr_prop8
+                     Assertion_spi.sv(84)               0          1
+/SPI_tb/SPI/A/cvr_prop9
+                     Assertion_spi.sv(85)               0          1
+
+=================================================================================
+=== Instance: /SPI_tb
+=== Design Unit: work.SPI_tb
+=================================================================================
+
+Assertion Coverage:
+    Assertions                       3         3         0   100.00%
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SPI_tb/#anonblk#92599970#117#4#/#ublk#92599970#117/immed__125
+                     SPI_tb.sv(125)                     0          1
+/SPI_tb/#anonblk#92599970#117#4#/#ublk#92599970#117/#ublk#92599970#132/immed__154
+                     SPI_tb.sv(154)                     0          1
+/SPI_tb/#anonblk#92599970#117#4#/#ublk#92599970#117/#ublk#92599970#132/immed__137
+                     SPI_tb.sv(137)                     0          1
+
+
+ASSERTION RESULTS:
+--------------------------------------------------------------------
+Name                 File(Line)                   Failure      Pass 
+                                                  Count        Count
+--------------------------------------------------------------------
+/SPI_tb/#anonblk#92599970#117#4#/#ublk#92599970#117/immed__125
+                     SPI_tb.sv(125)                     0          1
+/SPI_tb/#anonblk#92599970#117#4#/#ublk#92599970#117/#ublk#92599970#132/immed__154
+                     SPI_tb.sv(154)                     0          1
+/SPI_tb/#anonblk#92599970#117#4#/#ublk#92599970#117/#ublk#92599970#132/immed__137
+                     SPI_tb.sv(137)                     0          1
+/SPI_tb/SPI/A/#ublk#164219134#62/immed__64
+                     Assertion_spi.sv(64)               0          1
+/SPI_tb/SPI/A/sv_prop1
+                     Assertion_spi.sv(67)               0          1
+/SPI_tb/SPI/A/sv_prop2
+                     Assertion_spi.sv(68)               0          1
+/SPI_tb/SPI/A/sv_prop3
+                     Assertion_spi.sv(69)               0          1
+/SPI_tb/SPI/A/sv_prop4
+                     Assertion_spi.sv(70)               0          1
+/SPI_tb/SPI/A/sv_prop5
+                     Assertion_spi.sv(71)               0          1
+/SPI_tb/SPI/A/sv_prop6
+                     Assertion_spi.sv(72)               0          1
+/SPI_tb/SPI/A/sv_prop7
+                     Assertion_spi.sv(73)               0          1
+/SPI_tb/SPI/A/sv_prop8
+                     Assertion_spi.sv(74)               0          1
+/SPI_tb/SPI/A/sv_prop9
+                     Assertion_spi.sv(75)               0          1
+/SPI_tb/SPI/A/cvr_prop1
+                     Assertion_spi.sv(77)               0          1
+/SPI_tb/SPI/A/cvr_prop2
+                     Assertion_spi.sv(78)               0          1
+/SPI_tb/SPI/A/cvr_prop3
+                     Assertion_spi.sv(79)               0          1
+/SPI_tb/SPI/A/cvr_prop4
+                     Assertion_spi.sv(80)               0          1
+/SPI_tb/SPI/A/cvr_prop5
+                     Assertion_spi.sv(81)               0          1
+/SPI_tb/SPI/A/cvr_prop6
+                     Assertion_spi.sv(82)               0          1
+/SPI_tb/SPI/A/cvr_prop7
+                     Assertion_spi.sv(83)               0          1
+/SPI_tb/SPI/A/cvr_prop8
+                     Assertion_spi.sv(84)               0          1
+/SPI_tb/SPI/A/cvr_prop9
+                     Assertion_spi.sv(85)               0          1
+
+Total Coverage By Instance (filtered view): 100.00%
+
